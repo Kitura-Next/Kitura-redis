@@ -1,6 +1,6 @@
 module: SwiftRedis
 author: IBM
-github_url: https://github.com/IBM-Swift/Kitura-redis/
+github_url: https://github.com/Kitura-Next/Kitura-redis/
 
 theme: fullwidth
 clean: true
